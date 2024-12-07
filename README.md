@@ -1,4 +1,4 @@
-TITLE: Smart Transit - College Live Bus Tracking Management
+TITLE: Smart Transit - College Live Bus Tracking and Management
 
 Team Members:
 
